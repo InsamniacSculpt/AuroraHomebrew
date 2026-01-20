@@ -5,13 +5,13 @@
 		<description>This is the Glorbo book for Glorbo</description>
 		<author url="https://www.youtube.com/@InsamniacFilms">Insamniac</author>
 		<update version="0.2">
-			<file name="glorbo.index" url="https://raw.githubusercontent.com/insamniacsculpt/aurora2020on/master/glorbo.index" />
+			<file name="glorbo.index" url="https://raw.githubusercontent.com/insamniacsculpt/Aurora2020on/master/glorbo.index" />
 		</update>
 	</info>
 	<files>	
 
 		<!-- items -->
-		<file name="item-glorbo.xml" url="https://raw.githubusercontent.com/insamniacsculpt/aurora2020on/master/item-glorbo.xml" />
+		<file name="item-glorbo.xml" url="https://raw.githubusercontent.com/insamniacsculpt/Aurora2020on/master/item-glorbo.xml" />
 
 	</files>
 </index>
