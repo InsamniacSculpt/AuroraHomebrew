@@ -8,12 +8,12 @@
 		</update>
 	</info>
 	<element name="Hex Purity 1" type="Magic Item" source="Nullification of Novus" id="ID_ITEM_HEX_PURITY_1">
-		<supports>ID_INTERNAL_HEX</supports>
+		<supports>ID_INTERNAL_HEX_PURITY</supports>
 		<description>
 			<p>A vial of a magic drug that empowers the user with the ability to cast a single Level 1 spell of the defined Hex type, and any cantrips.</p>	
 		</description>
 		<setters>
-			<set name="category">Hex</set>
+			<set name="category">Hex Purity</set>
 			<set name="cost" currency="gp">15</set>
 			<set name="weight" lb="8">0.2 lbs.</set>
 			<set name="type">Hex</set>
@@ -27,10 +27,10 @@
 		</description>
 		<setters>
 			<set name="category">Hex Types</set>
-			<set name="type" addition="any">Hex</set>
-			<set name="enhancement">Evocation</set>
-			<set name="hex">ID_INTERNAL_HEX</set>
-			<set name="name-format">{{parent}} {{enhancement}}</set>
+			<set name="type" addition="any">Hex Purity</set>
+			<set name="school">Evocation</set>
+			<set name="hex">ID_INTERNAL_HEX_PURITY</set>
+			<set name="name-format">{{parent}} {{school}}</set>
 		</setters>
 	</element>
 </elements>
