@@ -20,6 +20,20 @@
 			<set name="rarity">Common</set>
 		</setters>
 	</element>
+
+		<element name="Hex Purity 2" type="Magic Item" source="Nullification of Novus" id="ID_ITEM_HEX_PURITY_2">
+		<supports>ID_INTERNAL_HEX_PURITY</supports>
+		<description>
+			<p>A vial of a magic drug that empowers the user with the ability to cast a single Level 2 spell of the defined Hex type, and any cantrips.</p>	
+		</description>
+		<setters>
+			<set name="category">Hex Purity</set>
+			<set name="cost" currency="gp">15</set>
+			<set name="weight" lb="8">0.2 lbs.</set>
+			<set name="type">Hex</set>
+			<set name="rarity">Uncommon</set>
+		</setters>
+	</element>
 	
 	<element name="Evocation" type="Magic Item" source="Nullification of Novus" id="ID_ITEM_HEX_EVOCATION">
 		<description>
