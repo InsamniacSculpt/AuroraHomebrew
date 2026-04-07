@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<elements>
+	<info>
+		<name>Hex</name>
+		<author url="https://www.youtube.com/@InsamniacFilms">Insamniac</author>
+		<update version="0.1">
+			<file name="item-hex.xml" url="https://raw.githubusercontent.com/insamniacsculpt/aurora2020on/master/item-hex.xml" />
+		</update>
+	</info>
+	<element name="Hex" type="Item" source="Nullification of Novus" id="ID_ITEM_HEX">
+		<description>
+			<p>A vial of a magic drug that empowers the user with the ability to cast a single spell of the defined Hex type, and any cantrips</p>
+			<p class="indent"><strong><em>Components.</em></strong> Glorbo.</p>
+			<p class="indent"><strong><em>History.</em></strong> Glorbo.</p>
+			<p class="indent"><strong><em>Investigation.</em></strong> Glorbo.</p>
+			<p class="indent"><strong><em>Perception.</em></strong> Glorbo.</p>
+			<p class="indent"><strong><em>Demolition.</em></strong> Glorbo.</p>
+			<h5>GLORBO</h5>
+	
+		</description>
+		<setters>
+			<set name="category">Hex</set>
+			<set name="cost" currency="gp">15</set>
+			<set name="weight" lb="8">0.2 lbs.</set>
+			<set name="type">Hex</set>
+		</setters>
+	</element>
+	
+
+</elements>
