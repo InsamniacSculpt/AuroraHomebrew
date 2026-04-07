@@ -25,7 +25,7 @@
 			<p>This Hex allows the casting of a single Evocation spell and any cantrips</p>	
 		</description>
 		<setters>
-			<set name="category">Hex</set>
+			<set name="category">Hex Types</set>
 			<set name="type" addition="any">Hex</set>
 		</setters>
 	</element>
