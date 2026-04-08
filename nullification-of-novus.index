@@ -12,7 +12,7 @@
 
 		<!-- items -->
 		<file name="item-hex.xml" url="https://raw.githubusercontent.com/insamniacsculpt/AuroraHomebrew/master/item-hex.xml" />
-		<file name="item-hex.xml" url="https://raw.githubusercontent.com/insamniacsculpt/AuroraHomebrew/master/item-mix.xml" />
+		<file name="item-mix.xml" url="https://raw.githubusercontent.com/insamniacsculpt/AuroraHomebrew/master/item-mix.xml" />
 
 	</files>
 </index>
