@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<elements>
+	<info>
+		<name>Hex</name>
+		<author url="https://www.youtube.com/@InsamniacFilms">Insamniac</author>
+		<update version="0.1">
+			<file name="item-hex.xml" url="https://raw.githubusercontent.com/insamniacsculpt/AuroraHomebrew/master/item-hex.xml" />
+		</update>
+	</info>
