@@ -20,5 +20,200 @@ ________________________________________________________________________________
 			<set name="rarity">Common</set>
 		</setters>
 	</element>
+
+		<element name="Celerity Mix" type="Magic Item" source="Nullification of Novus" id="ID_ITEM_MIX_CELERITY">
+		<description>
+			<p>A Mix of Enchantment and Transmutation Hex that acts as the Celerity Mutagen</p>	
+		</description>
+		<setters>
+			<set name="category">Hex</set>
+			<set name="cost" currency="gp">10</set>
+			<set name="weight" lb="8">0.2 lbs.</set>
+			<set name="type">Mix</set>
+			<set name="rarity">Common</set>
+		</setters>
+	</element>
+
+		<element name="Conversant Mix" type="Magic Item" source="Nullification of Novus" id="ID_ITEM_MIX_CONVERSANT">
+		<description>
+			<p>A Mix of Divination and Transmutation Hex that acts as the Conversant Mutagen</p>	
+		</description>
+		<setters>
+			<set name="category">Hex</set>
+			<set name="cost" currency="gp">10</set>
+			<set name="weight" lb="8">0.2 lbs.</set>
+			<set name="type">Mix</set>
+			<set name="rarity">Common</set>
+		</setters>
+	</element>
+
+		<element name="Deftness Mix" type="Magic Item" source="Nullification of Novus" id="ID_ITEM_MIX_DEFTNESS">
+		<description>
+			<p>A Mix of Illusion and Enchantment Hex that acts as the Alluring Mutagen</p>	
+		</description>
+		<setters>
+			<set name="category">Hex</set>
+			<set name="cost" currency="gp">10</set>
+			<set name="weight" lb="8">0.2 lbs.</set>
+			<set name="type">Mix</set>
+			<set name="rarity">Common</set>
+		</setters>
+	</element>
+
+		<element name="Embers Mix" type="Magic Item" source="Nullification of Novus" id="ID_ITEM_MIX_EMBERS">
+		<description>
+			<p>A Mix of Abjuration and Transmutation Hex that acts as the Embers Mutagen</p>	
+		</description>
+		<setters>
+			<set name="category">Hex</set>
+			<set name="cost" currency="gp">10</set>
+			<set name="weight" lb="8">0.2 lbs.</set>
+			<set name="type">Mix</set>
+			<set name="rarity">Common</set>
+		</setters>
+	</element>
+
+		<element name="Gelid Mix" type="Magic Item" source="Nullification of Novus" id="ID_ITEM_MIX_GELID">
+		<description>
+			<p>A Mix of Abjuration and Evocation Hex that acts as the Gelid Mutagen</p>	
+		</description>
+		<setters>
+			<set name="category">Hex</set>
+			<set name="cost" currency="gp">10</set>
+			<set name="weight" lb="8">0.2 lbs.</set>
+			<set name="type">Mix</set>
+			<set name="rarity">Common</set>
+		</setters>
+	</element>
+
+		<element name="Impermeable Mix" type="Magic Item" source="Nullification of Novus" id="ID_ITEM_MIX_IMPERMEABLE">
+		<description>
+			<p>A Mix of Necromancy and Illusion Hex that acts as the Impermeable Mutagen</p>	
+		</description>
+		<setters>
+			<set name="category">Hex</set>
+			<set name="cost" currency="gp">10</set>
+			<set name="weight" lb="8">0.2 lbs.</set>
+			<set name="type">Mix</set>
+			<set name="rarity">Common</set>
+		</setters>
+	</element>
+
+		<element name="Mobility Mix" type="Magic Item" source="Nullification of Novus" id="ID_ITEM_MIX_MOBILITY">
+		<description>
+			<p>A Mix of Abjuration and Illusion Hex that acts as the Mobility Mutagen</p>	
+		</description>
+		<setters>
+			<set name="category">Hex</set>
+			<set name="cost" currency="gp">10</set>
+			<set name="weight" lb="8">0.2 lbs.</set>
+			<set name="type">Mix</set>
+			<set name="rarity">Common</set>
+		</setters>
+	</element>
+
+		<element name="Nighteye Mix" type="Magic Item" source="Nullification of Novus" id="ID_ITEM_MIX_NIGHTEYE">
+		<description>
+			<p>A Mix of Divination and Conjuration Hex that acts as the Nighteye Mutagen</p>	
+		</description>
+		<setters>
+			<set name="category">Hex</set>
+			<set name="cost" currency="gp">10</set>
+			<set name="weight" lb="8">0.2 lbs.</set>
+			<set name="type">Mix</set>
+			<set name="rarity">Common</set>
+		</setters>
+	</element>
+
+		<element name="Percipient Mix" type="Magic Item" source="Nullification of Novus" id="ID_ITEM_MIX_PERCIPIENT">
+		<description>
+			<p>A Mix of Illusion and Conjuration Hex that acts as the Percipient Mutagen</p>	
+		</description>
+		<setters>
+			<set name="category">Hex</set>
+			<set name="cost" currency="gp">10</set>
+			<set name="weight" lb="8">0.2 lbs.</set>
+			<set name="type">Mix</set>
+			<set name="rarity">Common</set>
+		</setters>
+	</element>
+
+		<element name="Potency Mix" type="Magic Item" source="Nullification of Novus" id="ID_ITEM_MIX_POTENCY">
+		<description>
+			<p>A Mix of Necromancy and Transmutation Hex that acts as the Potency Mutagen</p>	
+		</description>
+		<setters>
+			<set name="category">Hex</set>
+			<set name="cost" currency="gp">10</set>
+			<set name="weight" lb="8">0.2 lbs.</set>
+			<set name="type">Mix</set>
+			<set name="rarity">Common</set>
+		</setters>
+	</element>
+
+		<element name="Rapidity Mix" type="Magic Item" source="Nullification of Novus" id="ID_ITEM_MIX_RAPIDITY">
+		<description>
+			<p>A Mix of Enchantment and Necromancy Hex that acts as the Rapidity Mutagen</p>	
+		</description>
+		<setters>
+			<set name="category">Hex</set>
+			<set name="cost" currency="gp">10</set>
+			<set name="weight" lb="8">0.2 lbs.</set>
+			<set name="type">Mix</set>
+			<set name="rarity">Common</set>
+		</setters>
+	</element>
+
+		<element name="Sagacity Mix" type="Magic Item" source="Nullification of Novus" id="ID_ITEM_MIX_SAGACITY">
+		<description>
+			<p>A Mix of Divination and Illusion Hex that acts as the Sagacity Mutagen</p>	
+		</description>
+		<setters>
+			<set name="category">Hex</set>
+			<set name="cost" currency="gp">10</set>
+			<set name="weight" lb="8">0.2 lbs.</set>
+			<set name="type">Mix</set>
+			<set name="rarity">Common</set>
+		</setters>
+	</element>
+
+		<element name="Shielded Mix" type="Magic Item" source="Nullification of Novus" id="ID_ITEM_MIX_SHIELDED">
+		<description>
+			<p>A Mix of Evocation and Necromancy Hex that acts as the Alluring Mutagen</p>	
+		</description>
+		<setters>
+			<set name="category">Hex</set>
+			<set name="cost" currency="gp">10</set>
+			<set name="weight" lb="8">0.2 lbs.</set>
+			<set name="type">Mix</set>
+			<set name="rarity">Common</set>
+		</setters>
+	</element>
+
+		<element name="Unbreakable Mix" type="Magic Item" source="Nullification of Novus" id="ID_ITEM_MIX_UNBREAKABLE">
+		<description>
+			<p>A Mix of Abjuration and Necromancy Hex that acts as the Unbreakable Mutagen</p>	
+		</description>
+		<setters>
+			<set name="category">Hex</set>
+			<set name="cost" currency="gp">10</set>
+			<set name="weight" lb="8">0.2 lbs.</set>
+			<set name="type">Mix</set>
+			<set name="rarity">Common</set>
+		</setters>
+	</element>
+
+		<element name="Vermillion Mix" type="Magic Item" source="Nullification of Novus" id="ID_ITEM_MIX_VERMILLION">
+		<description>
+			<p>A Mix of Conjuration and Necromancy Hex that acts as the Vermillion Mutagen</p>	
+		</description>
+		<setters>
+			<set name="category">Hex</set>
+			<set name="cost" currency="gp">10</set>
+			<set name="weight" lb="8">0.2 lbs.</set>
+			<set name="type">Mix</set>
+			<set name="rarity">Common</set>
+		</setters>
+	</element>
 	
 </elements>
